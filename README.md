@@ -23,6 +23,6 @@ O jogo foi desenvolvido passo a passo durante o tutorial, cobrindo desde o setup
 | Ação | Tecla |
 |------|--------|
 | Mover | Setas / WASD |
-| Pular | Espaço |
-| Ataque | Enter |
+| Reiniciar | Espaço |
+| Acessar | Enter |
 | Pausar | Esc |
