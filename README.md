@@ -13,28 +13,8 @@ O jogo foi desenvolvido passo a passo durante o tutorial, cobrindo desde o setup
 
 ## ⚙️ Tecnologias
 
-- **C# / .NET 8**
+- **C# / .NET 9**
 - **MonoGame Framework 3.8.1**
-- **MonoGame.Extended**
-- **Tiled** (para mapas)
-- **Aseprite** (para sprites e animações)
-
----
-
-## 📁 Estrutura do Projeto
-
-/DungeonSlime
-├── DungeonSlime.csproj
-├── Game1.cs
-├── Scenes/
-├── Entities/
-├── UI/
-├── Content/
-│ ├── sprites/
-│ ├── tiles/
-│ └── sounds/
-└── README.md
-
 
 ---
 
